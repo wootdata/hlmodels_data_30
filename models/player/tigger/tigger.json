@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1380127976,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aa56f7a4700a60bb7e686d92eee7c7df",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:/Half-Life/valve/models/player/tigger/tigger.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1594670432,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d45428b03300bbcc1c7ad57ee91c58f1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\sierra\\half-life\\gearbox\\models\\player\\DM_Adrian\\DM_Tower.mdl8",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

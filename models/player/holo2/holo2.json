@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -80,6 +81,7 @@
 			"type": 32
 		}
 	],
+	"date": 1073867948,
 	"events": [
 		{
 			"event": 2001,
@@ -217,7 +219,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5b536ac0f75b7010555b9cdae0ab2d84",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Holo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

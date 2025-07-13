@@ -88,6 +88,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -122,6 +123,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578449684,
 	"events": [
 		{
 			"event": 2001,
@@ -231,7 +233,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8a5b8511620d6d5cb108427e6e394baf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

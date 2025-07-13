@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -75,6 +76,7 @@
 			"type": 8
 		}
 	],
+	"date": 1164321812,
 	"events": [
 		{
 			"event": 2001,
@@ -184,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "17f3c30f5d9aab2aac0980bc220ca97f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\1\\Desktop\\opiti\\Matrix\\SvenCoop\\models",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

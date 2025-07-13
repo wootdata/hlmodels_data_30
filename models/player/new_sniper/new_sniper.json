@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -85,6 +86,7 @@
 			"type": 32
 		}
 	],
+	"date": 1624136646,
 	"events": [
 		{
 			"event": 2001,
@@ -194,7 +196,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fce3e500ffcf2b8e4389e2c689cd9912",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "new_sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

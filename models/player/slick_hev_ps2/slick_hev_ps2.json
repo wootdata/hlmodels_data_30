@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1435073131,
 	"events": [
 		{
 			"event": 2001,
@@ -196,7 +198,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b59aad1c9690d36d92490a2134bd1982",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_Slick.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
