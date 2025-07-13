@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -20,15 +20,20 @@
 		{
 			"models": [
 				{
-					"name": "Bomberman(ref)",
-					"polys": 1680,
-					"verts": 864
+					"name": "lowcount/scientist/DM_Scientist_Biped1",
+					"polys": 380,
+					"verts": 203
+				}, 
+				{
+					"name": "highcount/scientist/DM_ScienceBiped1",
+					"polys": 710,
+					"verts": 369
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098055980,
+	"date": 913202970,
 	"events": [
 		{
 			"event": 2001,
@@ -172,11 +177,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "38717dd6e304f45ba48de888f2fb781a",
+	"md5": "3d9308a75d6b5e950a57d4716a2d8fe4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\unzipped\\Bomberman\\Bomberman.mdl",
-	"preview": false,
+	"name": "C:/games/half-life/valve/models/player/3eye/3eye.mdl",
+	"preview": true,
 	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
@@ -566,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 335136,
+	"size": 329272,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -641,20 +646,44 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 19
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}
 	],
 	"skins": 1,
@@ -662,21 +691,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 189,
-			"name": "face.bmp",
-			"width": 236
+			"height": 256,
+			"name": "DM_Base.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 37,
-			"name": "feet-hands.bmp",
-			"width": 36
-		}, 
-		{
-			"flags": 0,
-			"height": 189,
-			"name": "body.bmp",
-			"width": 236
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
 		}
 	],
 	"version": 10

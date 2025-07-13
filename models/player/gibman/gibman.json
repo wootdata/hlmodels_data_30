@@ -1,17 +1,7 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
+			"bone": 1,
 			"name": "",
 			"type": 0
 		}
@@ -20,12 +10,37 @@
 		{
 			"models": [
 				{
-					"name": "Bomberman(ref)",
-					"polys": 1680,
-					"verts": 864
+					"name": "body_player",
+					"polys": 2244,
+					"verts": 1177
+				}, 
+				{
+					"name": "body_skeleton",
+					"polys": 1393,
+					"verts": 790
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body_head",
+					"polys": 124,
+					"verts": 66
+				}, 
+				{
+					"name": "body_no_head",
+					"polys": 0,
+					"verts": 0
+				}, 
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}
+			],
+			"name": "head"
 		}
 	],
 	"colorable": false,
@@ -63,152 +78,121 @@
 			"type": 8
 		}
 	],
-	"date": 1098055980,
+	"date": 1336842249,
 	"events": [
 		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
-			"sequence": 18,
-			"type": 0
-		}, 
-		{
-			"event": 2001,
-			"frame": 13,
-			"options": "",
-			"sequence": 19,
+			"sequence": 10,
 			"type": 0
 		}, 
 		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
-			"sequence": 20,
+			"sequence": 11,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 31,
+			"options": "",
+			"sequence": 13,
 			"type": 0
 		}, 
 		{
 			"event": 2001,
 			"frame": 8,
 			"options": "",
-			"sequence": 21,
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 41,
+			"options": "",
+			"sequence": 15,
 			"type": 0
 		}, 
 		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
-			"sequence": 22,
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 46,
+			"options": "",
+			"sequence": 17,
 			"type": 0
 		}, 
 		{
 			"event": 2001,
 			"frame": 16,
 			"options": "",
-			"sequence": 23,
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 12,
+			"options": "",
+			"sequence": 19,
 			"type": 0
 		}, 
 		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
-			"sequence": 24,
+			"sequence": 20,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
-			"frame": 0,
-			"options": "21",
-			"sequence": 34,
-			"type": 0
-		}, 
-		{
-			"event": 5011,
-			"frame": 0,
-			"options": "21",
-			"sequence": 36,
-			"type": 0
-		}, 
-		{
-			"event": 5011,
-			"frame": 0,
-			"options": "31",
-			"sequence": 38,
-			"type": 0
-		}, 
-		{
-			"event": 5011,
-			"frame": 0,
-			"options": "31",
-			"sequence": 40,
-			"type": 0
-		}, 
-		{
-			"event": 5021,
-			"frame": 0,
-			"options": "51",
-			"sequence": 42,
-			"type": 0
-		}, 
-		{
-			"event": 5021,
-			"frame": 0,
-			"options": "51",
-			"sequence": 44,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 0,
-			"options": "40",
-			"sequence": 50,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 0,
-			"options": "40",
-			"sequence": 52,
+			"event": 2001,
+			"frame": 30,
+			"options": "",
+			"sequence": 21,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "38717dd6e304f45ba48de888f2fb781a",
+	"md5": "1e2cbb9d3481f7fb42272623d7eef4c5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\unzipped\\Bomberman\\Bomberman.mdl",
-	"preview": false,
-	"readme": true,
+	"name": "gibman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
-		{
-			"fps": 14.000000,
-			"frames": 31,
-			"name": "look_idle"
-		}, 
 		{
 			"fps": 14.000000,
 			"frames": 41,
 			"name": "idle"
 		}, 
 		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "deep_idle"
-		}, 
-		{
 			"fps": 40.000000,
 			"frames": 23,
-			"name": "run2"
+			"name": "run"
 		}, 
 		{
 			"fps": 26.000000,
 			"frames": 24,
-			"name": "walk2handed"
+			"name": "walk"
 		}, 
 		{
 			"fps": 20.000000,
 			"frames": 8,
-			"name": "2handshoot"
+			"name": "shoot"
 		}, 
 		{
 			"fps": 22.000000,
@@ -241,44 +225,9 @@
 			"name": "treadwater"
 		}, 
 		{
-			"fps": 31.000000,
-			"frames": 23,
-			"name": "run"
-		}, 
-		{
-			"fps": 31.000000,
-			"frames": 24,
-			"name": "walk"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 31,
-			"name": "aim_2"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 7,
-			"name": "shoot_2"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 31,
-			"name": "aim_1"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 8,
-			"name": "shoot_1"
-		}, 
-		{
 			"fps": 22.000000,
 			"frames": 19,
 			"name": "die_simple"
-		}, 
-		{
-			"fps": 26.000000,
-			"frames": 25,
-			"name": "die_backwards1"
 		}, 
 		{
 			"fps": 30.000000,
@@ -287,8 +236,23 @@
 		}, 
 		{
 			"fps": 26.000000,
+			"frames": 25,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 42,
+			"name": "die_backwards2"
+		}, 
+		{
+			"fps": 26.000000,
 			"frames": 19,
 			"name": "die_forwards"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 51,
+			"name": "die_forwards2"
 		}, 
 		{
 			"fps": 24.000000,
@@ -296,14 +260,29 @@
 			"name": "headshot"
 		}, 
 		{
+			"fps": 24.000000,
+			"frames": 54,
+			"name": "headshot2"
+		}, 
+		{
 			"fps": 30.000000,
 			"frames": 21,
 			"name": "die_spin"
 		}, 
 		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "die_spin2"
+		}, 
+		{
 			"fps": 26.000000,
 			"frames": 38,
 			"name": "gutshot"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 42,
+			"name": "gutshot2"
 		}, 
 		{
 			"fps": 12.000000,
@@ -341,7 +320,7 @@
 			"name": "crouch_aim_trip"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 18.000000,
 			"frames": 13,
 			"name": "crouch_shoot_trip"
 		}, 
@@ -351,7 +330,7 @@
 			"name": "ref_aim_onehanded"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 25.000000,
 			"frames": 8,
 			"name": "ref_shoot_onehanded"
 		}, 
@@ -361,29 +340,9 @@
 			"name": "crouch_aim_onehanded"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 25.000000,
 			"frames": 8,
 			"name": "crouch_shoot_onehanded"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "ref_aim_python"
-		}, 
-		{
-			"fps": 16.000000,
-			"frames": 8,
-			"name": "ref_shoot_python"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "crouch_aim_python"
-		}, 
-		{
-			"fps": 16.000000,
-			"frames": 8,
-			"name": "crouch_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
@@ -391,8 +350,8 @@
 			"name": "ref_aim_shotgun"
 		}, 
 		{
-			"fps": 15.000000,
-			"frames": 7,
+			"fps": 20.000000,
+			"frames": 17,
 			"name": "ref_shoot_shotgun"
 		}, 
 		{
@@ -401,9 +360,49 @@
 			"name": "crouch_aim_shotgun"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 20.000000,
 			"frames": 8,
 			"name": "crouch_shoot_shotgun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "ref_aim_mp5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "ref_shoot_mp5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "crouch_aim_mp5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "crouch_shoot_mp5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "ref_aim_saw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 5,
+			"name": "ref_shoot_saw"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "crouch_aim_saw"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 5,
+			"name": "crouch_shoot_saw"
 		}, 
 		{
 			"fps": 12.000000,
@@ -411,7 +410,7 @@
 			"name": "ref_aim_gauss"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 20.000000,
 			"frames": 8,
 			"name": "ref_shoot_gauss"
 		}, 
@@ -421,32 +420,12 @@
 			"name": "crouch_aim_gauss"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 20.000000,
 			"frames": 8,
 			"name": "crouch_shoot_gauss"
 		}, 
 		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "ref_aim_mp5"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 4,
-			"name": "ref_shoot_mp5"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
-			"name": "crouch_aim_mp5"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 3,
-			"name": "crouch_shoot_mp5"
-		}, 
-		{
-			"fps": 12.000000,
+			"fps": 10.000000,
 			"frames": 31,
 			"name": "ref_aim_rpg"
 		}, 
@@ -488,26 +467,6 @@
 		{
 			"fps": 12.000000,
 			"frames": 31,
-			"name": "ref_aim_squeak"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 13,
-			"name": "ref_shoot_squeak"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 30,
-			"name": "crouch_aim_squeak"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 13,
-			"name": "crouch_shoot_squeak"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 31,
 			"name": "ref_aim_hive"
 		}, 
 		{
@@ -526,47 +485,142 @@
 			"name": "crouch_shoot_hive"
 		}, 
 		{
+			"fps": 14.000000,
+			"frames": 21,
+			"name": "ref_aim_twohanded"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "ref_shoot_twohanded"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 21,
+			"name": "crouch_aim_twohanded"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "crouch_shoot_twohanded"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 21,
+			"name": "ref_aim_minigun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 9,
+			"name": "ref_shoot_minigun"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 21,
+			"name": "crouch_aim_minigun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 9,
+			"name": "crouch_shoot_minigun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "ref_aim_grenade"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 12,
+			"name": "ref_shoot_grenade"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "crouch_aim_grenade"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 12,
+			"name": "crouch_shoot_grenade"
+		}, 
+		{
+			"fps": 6.000000,
+			"frames": 21,
+			"name": "ref_aim_rifle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 7,
+			"name": "ref_shoot_rifle"
+		}, 
+		{
+			"fps": 6.000000,
+			"frames": 21,
+			"name": "crouch_aim_rifle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 7,
+			"name": "crouch_shoot_rifle"
+		}, 
+		{
 			"fps": 12.000000,
 			"frames": 31,
-			"name": "ref_aim_bow"
+			"name": "ref_aim_plasmapistol"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 18.000000,
 			"frames": 31,
-			"name": "ref_shoot_bow"
+			"name": "ref_shoot_plasmapistol"
 		}, 
 		{
 			"fps": 12.000000,
 			"frames": 31,
-			"name": "crouch_aim_bow"
+			"name": "crouch_aim_plasmapistol"
 		}, 
 		{
-			"fps": 16.000000,
+			"fps": 18.000000,
 			"frames": 31,
-			"name": "crouch_shoot_bow"
+			"name": "crouch_shoot_plasmapistol"
 		}, 
 		{
-			"fps": 10.000000,
-			"frames": 2,
-			"name": "deadback"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 2,
-			"name": "deadsitting"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 2,
-			"name": "deadstomach"
-		}, 
-		{
-			"fps": 10.000000,
+			"fps": 12.000000,
 			"frames": 31,
-			"name": "deadtable"
+			"name": "ref_aim_shieldgun"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 4,
+			"name": "ref_shoot_shieldgun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_shieldgun"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "crouch_shoot_shieldgun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "ref_aim_shield"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_shield"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 3,
+			"name": "idle_armor"
 		}
 	],
-	"size": 335136,
+	"size": 632768,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -641,20 +695,72 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 7
 		}
 	],
 	"skins": 1,
@@ -662,21 +768,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 189,
-			"name": "face.bmp",
-			"width": 236
+			"height": 256,
+			"name": "organs.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 37,
-			"name": "feet-hands.bmp",
-			"width": 36
+			"height": 106,
+			"name": "Chest.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 189,
-			"name": "body.bmp",
-			"width": 236
+			"height": 93,
+			"name": "arm.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "sk_head_legs.bmp",
+			"width": 308
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "sk_body.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "ribcage.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 81,
+			"name": "Head.bmp",
+			"width": 144
 		}
 	],
 	"version": 10

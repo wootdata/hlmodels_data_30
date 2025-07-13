@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 30,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 30,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 30,
 			"name": "",
 			"type": 0
 		}
@@ -20,18 +20,18 @@
 		{
 			"models": [
 				{
-					"name": "Bomberman(ref)",
-					"polys": 1680,
-					"verts": 864
+					"name": "twit",
+					"polys": 726,
+					"verts": 365
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 12,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 13,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 14,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,11 +63,11 @@
 			"type": 8
 		}
 	],
-	"date": 1098055980,
+	"date": 1047443708,
 	"events": [
 		{
 			"event": 2001,
-			"frame": 9,
+			"frame": 10,
 			"options": "",
 			"sequence": 18,
 			"type": 0
@@ -95,7 +95,7 @@
 		}, 
 		{
 			"event": 2001,
-			"frame": 22,
+			"frame": 23,
 			"options": "",
 			"sequence": 22,
 			"type": 0
@@ -172,12 +172,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "38717dd6e304f45ba48de888f2fb781a",
+	"md5": "92666b8712fd2e8038eba54240891f56",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\unzipped\\Bomberman\\Bomberman.mdl",
-	"preview": false,
-	"readme": true,
+	"name": "C:\\WINDOWS\\Desktop\\Blackbeard\\Blackbeard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -197,12 +197,12 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 31,
 			"name": "run2"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 24,
+			"frames": 25,
 			"name": "walk2handed"
 		}, 
 		{
@@ -222,7 +222,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 36,
 			"name": "jump"
 		}, 
 		{
@@ -242,12 +242,12 @@
 		}, 
 		{
 			"fps": 31.000000,
-			"frames": 23,
+			"frames": 31,
 			"name": "run"
 		}, 
 		{
 			"fps": 31.000000,
-			"frames": 24,
+			"frames": 25,
 			"name": "walk"
 		}, 
 		{
@@ -272,7 +272,7 @@
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 19,
+			"frames": 29,
 			"name": "die_simple"
 		}, 
 		{
@@ -292,7 +292,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 28,
+			"frames": 29,
 			"name": "headshot"
 		}, 
 		{
@@ -302,7 +302,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 38,
+			"frames": 40,
 			"name": "gutshot"
 		}, 
 		{
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 335136,
+	"size": 342236,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -601,60 +601,120 @@
 			"parent": 6
 		}, 
 		{
+			"name": "Bip01 R Toe0",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Toe02",
+			"parent": 9
+		}, 
+		{
 			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
+			"name": "Bip01 Spine2",
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 L Arm",
-			"parent": 12
+			"name": "Bip01 Spine3",
+			"parent": 13
 		}, 
 		{
-			"name": "Bip01 L Arm1",
+			"name": "Bip01 Neck",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Head",
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 L Hand",
-			"parent": 16
+			"name": "Bip01 L Arm",
+			"parent": 15
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
+			"name": "Bip01 L Arm1",
+			"parent": 17
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 L Arm2",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bip01 L Hand",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 L Finger0",
 			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 35
 		}
 	],
 	"skins": 1,
@@ -662,21 +722,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 189,
-			"name": "face.bmp",
-			"width": 236
-		}, 
-		{
-			"flags": 0,
-			"height": 37,
-			"name": "feet-hands.bmp",
-			"width": 36
-		}, 
-		{
-			"flags": 0,
-			"height": 189,
-			"name": "body.bmp",
-			"width": 236
+			"height": 256,
+			"name": "DM_base.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
