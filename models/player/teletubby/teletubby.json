@@ -175,6 +175,7 @@
 	"md5": "5974dae65e833db57b9f838ba664ba42",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/TeleTubby/TeleTubby.mdl",
 	"preview": true,
 	"readme": true,

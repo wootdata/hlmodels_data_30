@@ -175,6 +175,7 @@
 	"md5": "93120fb084dfb1d1895fd8045c09393c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "drill.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "85ae3855e4e2beb566b32f1000f97343",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gb/gb.mdl",
 	"preview": true,
 	"readme": false,

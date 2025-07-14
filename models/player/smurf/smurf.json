@@ -175,6 +175,7 @@
 	"md5": "f331f87be9e00ccabc962942e114bda5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Smurf/Smurf.mdl",
 	"preview": true,
 	"readme": false,
