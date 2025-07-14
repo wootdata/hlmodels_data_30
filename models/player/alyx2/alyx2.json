@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 32,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 32,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 32,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,39 @@
 		{
 			"models": [
 				{
-					"name": "half-life/valve/models/dmatch/lowcount/Zell/Zell",
-					"polys": 577,
-					"verts": 287
+					"name": "alyx_head1",
+					"polys": 2124,
+					"verts": 1197
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "alyx_head2",
+					"polys": 2020,
+					"verts": 1177
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "alyx_p1",
+					"polys": 1917,
+					"verts": 1014
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "alyx_p2",
+					"polys": 2683,
+					"verts": 1368
 				}
 			],
 			"name": "body"
@@ -31,7 +61,7 @@
 	"colorable": true,
 	"controllers": [
 		{
-			"bone": 14,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +69,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +77,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 16,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +85,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 17,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +93,7 @@
 			"type": 8
 		}
 	],
-	"date": 1564437194,
+	"date": 1703599191,
 	"events": [
 		{
 			"event": 2001,
@@ -95,7 +125,7 @@
 		}, 
 		{
 			"event": 2001,
-			"frame": 17,
+			"frame": 22,
 			"options": "",
 			"sequence": 22,
 			"type": 0
@@ -172,27 +202,27 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "c7f7e2251f937f7d63205694294fdca4",
+	"md5": "23dd1e8fe551b1fff5cd9507588401eb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "c:\\sierra\\half-life/valve/models/player/Zell/Zell.mdl",
+	"name": "alyx.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 20,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
@@ -222,12 +252,12 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 45,
+			"frames": 34,
 			"name": "jump"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 38,
+			"frames": 37,
 			"name": "long_jump"
 		}, 
 		{
@@ -282,17 +312,17 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 25,
+			"frames": 36,
 			"name": "die_backwards"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 16,
+			"frames": 19,
 			"name": "die_forwards"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 18,
+			"frames": 28,
 			"name": "headshot"
 		}, 
 		{
@@ -307,12 +337,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 15,
+			"frames": 13,
 			"name": "ref_shoot_crowbar"
 		}, 
 		{
@@ -347,12 +377,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "ref_aim_onehanded"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 6,
+			"frames": 8,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
@@ -566,7 +596,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 322376,
+	"size": 1295904,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -577,28 +607,120 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 25
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 27
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Toe02",
-			"parent": 6
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -606,135 +728,49 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Toe02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Hand",
 			"parent": 31
 		}, 
 		{
-			"name": "Bip01 R Finger0",
+			"name": "Bip01 R Foot",
 			"parent": 32
 		}, 
 		{
-			"name": "Bip01 R Finger01",
+			"name": "Bip01 R Toe0",
 			"parent": 33
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 34
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 36
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741824,
-			"height": 256,
-			"name": "Remap0_000_032_127.bmp",
-			"width": 256
+			"flags": 0,
+			"height": 512,
+			"name": "alyx_faceandhair.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 128,
-			"name": "zell_face.bmp",
+			"name": "eyeball_alyx.bmp",
 			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "hairbits.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "fmouth.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "remap1_000_075_150.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

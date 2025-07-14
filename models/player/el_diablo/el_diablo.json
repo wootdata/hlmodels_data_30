@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 32,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 32,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 32,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}
@@ -20,15 +20,20 @@
 		{
 			"models": [
 				{
-					"name": "half-life/valve/models/dmatch/lowcount/Zell/Zell",
-					"polys": 577,
-					"verts": 287
+					"name": "Punisher/Punisher",
+					"polys": 766,
+					"verts": 386
+				}, 
+				{
+					"name": "Punisher/Punisher",
+					"polys": 766,
+					"verts": 386
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1564437194,
+	"date": 954974854,
 	"events": [
 		{
 			"event": 2001,
@@ -95,7 +100,7 @@
 		}, 
 		{
 			"event": 2001,
-			"frame": 17,
+			"frame": 22,
 			"options": "",
 			"sequence": 22,
 			"type": 0
@@ -172,27 +177,27 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "c7f7e2251f937f7d63205694294fdca4",
+	"md5": "59acdbe8e51c31eab33a186c95a3c26e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "c:\\sierra\\half-life/valve/models/player/Zell/Zell.mdl",
+	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 20,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
@@ -222,12 +227,12 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 45,
+			"frames": 34,
 			"name": "jump"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 38,
+			"frames": 37,
 			"name": "long_jump"
 		}, 
 		{
@@ -282,17 +287,17 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 25,
+			"frames": 36,
 			"name": "die_backwards"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 16,
+			"frames": 19,
 			"name": "die_forwards"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 18,
+			"frames": 28,
 			"name": "headshot"
 		}, 
 		{
@@ -307,12 +312,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 15,
+			"frames": 13,
 			"name": "ref_shoot_crowbar"
 		}, 
 		{
@@ -347,12 +352,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 20,
+			"frames": 31,
 			"name": "ref_aim_onehanded"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 6,
+			"frames": 8,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
@@ -566,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 322376,
+	"size": 320512,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -665,76 +670,30 @@
 			"parent": 22
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 27
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 29
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 30
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 33
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 34
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 36
+			"parent": 26
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741824,
-			"height": 256,
-			"name": "Remap0_000_032_127.bmp",
-			"width": 256
-		}, 
-		{
 			"flags": 0,
-			"height": 128,
-			"name": "zell_face.bmp",
-			"width": 128
+			"height": 256,
+			"name": "punisher.BMP",
+			"width": 256
 		}
 	],
 	"version": 10
