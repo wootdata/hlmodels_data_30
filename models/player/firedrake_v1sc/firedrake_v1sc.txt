@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : firedrake
+Source Model Hash : c0cb52080cdd8c2933bb0b79d8174d5e
+Source Model Date : 1462729337 (2016/05/08)
+
+Ported Model Name : firedrake_v1sc
+Ported Model Hash : 4a8f4f1c5815f6a3ebe53b29c897f752
+Ported Model Date : 1752491651 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sinchanguu_v2
+Source Model Hash : e1a409c1013ce36124a10426178a7987
+Source Model Date : 1563799626 (2019/07/22)
+
+Ported Model Name : sinchanguu_v2sc
+Ported Model Hash : 65197674337f340d314d7be576f1d443
+Ported Model Date : 1752492278 (2025/07/14)

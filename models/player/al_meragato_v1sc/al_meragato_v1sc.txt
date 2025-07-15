@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : al_meragato_v1
+Source Model Hash : 01c9240c27ae116963f112385b108968
+Source Model Date : 1624212808 (2021/06/20)
+
+Ported Model Name : al_meragato_v1sc
+Ported Model Hash : 0e4ce4daa1576629dbf0c0f26a078e00
+Ported Model Date : 1752491358 (2025/07/14)

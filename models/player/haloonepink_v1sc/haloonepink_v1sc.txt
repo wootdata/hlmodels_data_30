@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : haloonepink
+Source Model Hash : 95dc5469896d80013bb390bb40e019bd
+Source Model Date : 1236707496 (2009/03/10)
+
+Ported Model Name : haloonepink_v1sc
+Ported Model Hash : 6f0719d8d9fb81edb890283db56dfd03
+Ported Model Date : 1752491763 (2025/07/14)

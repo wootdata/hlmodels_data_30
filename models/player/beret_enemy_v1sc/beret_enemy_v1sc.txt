@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : beret_enemy
+Source Model Hash : 5a0da17c9cb23936c6b8ab16a637461e
+Source Model Date : 1484900262 (2017/01/20)
+
+Ported Model Name : beret_enemy_v1sc
+Ported Model Hash : dda0e2d76d9204a32fb42d52e41136e0
+Ported Model Date : 1752491424 (2025/07/14)

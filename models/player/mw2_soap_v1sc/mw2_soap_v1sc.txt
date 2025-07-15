@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_soap
+Source Model Hash : 07a0dfbdbf1b667eb24c1ee522c2d20b
+Source Model Date : 1333743770 (2012/04/06)
+
+Ported Model Name : mw2_soap_v1sc
+Ported Model Hash : 9cde66ef50de2f1b1d9fb3c74366ffd9
+Ported Model Date : 1752492054 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chammy_xrs1
+Source Model Hash : 02c2e2315db70a99dfc740f81d895b70
+Source Model Date : 1640237594 (2021/12/22)
+
+Ported Model Name : chammy_xrs1_v1sc
+Ported Model Hash : cf868424dfb475708c754d0d4b18226b
+Ported Model Date : 1752491466 (2025/07/14)

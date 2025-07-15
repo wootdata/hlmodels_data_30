@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zzz_nekomata
+Source Model Hash : 4bb1bd32f8f1d82ade5545a5dc120d87
+Source Model Date : 1722736433 (2024/08/03)
+
+Ported Model Name : zzz_nekomata_v1sc
+Ported Model Hash : dd01557755b690f2fc5856f38ad5a2df
+Ported Model Date : 1752492537 (2025/07/14)

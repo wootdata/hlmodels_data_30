@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cwc_hecu1
+Source Model Hash : 38748e1aac44bd6967605f83e10c4de1
+Source Model Date : 1245767340 (2009/06/23)
+
+Ported Model Name : cwc_hecu1_v1sc
+Ported Model Hash : ba14b92e48338b13bd7f9b6d998c3e74
+Ported Model Date : 1752491569 (2025/07/14)

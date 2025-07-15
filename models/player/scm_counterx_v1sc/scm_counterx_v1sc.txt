@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scm_counterx
+Source Model Hash : ab6d093ce921d736f77648b5415e0804
+Source Model Date : 1428444768 (2015/04/07)
+
+Ported Model Name : scm_counterx_v1sc
+Ported Model Hash : 715236501e16356019fef9fafd368dae
+Ported Model Date : 1752492248 (2025/07/14)

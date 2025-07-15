@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_sanic_3p
+Source Model Hash : 53f3ac94138385d39eceb407e312c71d
+Source Model Date : 1586975824 (2020/04/15)
+
+Ported Model Name : 2d_sanic_3p_v1sc
+Ported Model Hash : ad6c1f343752fe5e44664beb62c0f68b
+Ported Model Date : 1752491318 (2025/07/14)

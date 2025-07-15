@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sovpv-1988spets1of
+Source Model Hash : 7032f46a85abb0736b7870834fdd8703
+Source Model Date : 1539735800 (2018/10/16)
+
+Ported Model Name : sov-1988spets1of_v1sc
+Ported Model Hash : 3dc7244a3783e2c2a30d7b1ec4bad10d
+Ported Model Date : 1752492303 (2025/07/14)

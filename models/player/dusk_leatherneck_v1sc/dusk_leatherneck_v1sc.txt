@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dusk_leatherneck
+Source Model Hash : 6231feecbfaf623b6e00c2722e117bf6
+Source Model Date : 1534076574 (2018/08/12)
+
+Ported Model Name : dusk_leatherneck_v1sc
+Ported Model Hash : c223cfb78a5f471b3e65f3debd8078b2
+Ported Model Date : 1752491626 (2025/07/14)

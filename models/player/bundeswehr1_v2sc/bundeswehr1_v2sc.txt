@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bundeswehr1_v2
+Source Model Hash : 8d98791699256f729047c4db8dfaf07b
+Source Model Date : 1582976454 (2020/02/29)
+
+Ported Model Name : bundeswehr1_v2sc
+Ported Model Hash : 102d2e1be01d42378bccd8f70d77b994
+Ported Model Date : 1752491452 (2025/07/14)

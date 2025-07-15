@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : madbarn
+Source Model Hash : b4adb8ba57cfe6b98a6799192885e385
+Source Model Date : 1266051642 (2010/02/13)
+
+Ported Model Name : madbarn_v1sc
+Ported Model Hash : 5ad67481d2be16e2134d53e4de33dbd2
+Ported Model Date : 1752491977 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : akiba_woman_1_under
+Source Model Hash : af2e117764c2463a5d6056f0dbce6a29
+Source Model Date : 1599169009 (2020/09/03)
+
+Ported Model Name : akiba_woman_v1sc
+Ported Model Hash : 6d05531cacf61f472a0cc9ed6d71542a
+Ported Model Date : 1752491350 (2025/07/14)

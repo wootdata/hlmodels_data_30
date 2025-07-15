@@ -1,0 +1,29 @@
+y.a.g.a.r - yet another goddamn astolfo reskin made by ryor
+
+today came up with a super original and cool idea: is to make an astolfo player model reskin. that's right, yet another anime player model reskin, out of 982174892174 existing ones! this is much better than coming up with a good idea and porting or making something new! because this is so damn original, i bet no one thought about that earlier! i am such a genius to come up with ideas like these!
+whats new:
+the skin color is now green
+"under where" is now white (although you wont notice it because of no flat shade)
+some parts glow in dark, some don't
+half of the left leg is replaced with a shotgun
+head is replaced with a watermelon (with inverted colors texture)
+shoe on the right leg is now transparent
+walking, jumping and swimming animations are now reversed
+soviet march plays whenever you jump
+the model is now 140000 polys because of a small ryors_sphere in it. oh youre saying it will lag for you? well i dont give a shit actually
+also i didnt flat shade some textures because i am super stupid
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yagar
+Source Model Hash : 8fe2580f56dedd41a625bf22be81bf4a
+Source Model Date : 1657891040 (2022/07/15)
+
+Ported Model Name : yagar_v1sc
+Ported Model Hash : 5b05020ee4730ace4f290176d8e8c2b8
+Ported Model Date : 1752492519 (2025/07/14)

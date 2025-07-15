@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mjodnir
+Source Model Hash : 17b96f78ba2936310f714389e26669b4
+Source Model Date : 1266503315 (2010/02/18)
+
+Ported Model Name : mjodnir_v1sc
+Ported Model Hash : b84b6a11809b9308193f7c9d0fde4ef7
+Ported Model Date : 1752492031 (2025/07/14)

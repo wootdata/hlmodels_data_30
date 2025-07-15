@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jack2
+Source Model Hash : 92ce1a18d8c166bd775d4015e7f506e4
+Source Model Date : 1263822957 (2010/01/18)
+
+Ported Model Name : jack2_v1sc
+Ported Model Hash : c4e6ddff37730812acb6165513932d2d
+Ported Model Date : 1752491856 (2025/07/14)

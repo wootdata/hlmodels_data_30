@@ -1,0 +1,19 @@
+skinner:  TC Bulkley aka. Shadow Master aka Lord Shiva
+skin name: Doa
+email: idiotboy@mad.scientist.com
+This was my first attempt at skinning..basicly all I did was modify the drjMaul skin with my own head and minor tweaks to the hands and the  robes..this was done for team doa
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doa_v2
+Source Model Hash : 7662007fda15213935600c51c8ab7d2b
+Source Model Date : 1583006429 (2020/02/29)
+
+Ported Model Name : doa_v2sc
+Ported Model Hash : b25b179d999a12af2abb17b25506404d
+Ported Model Date : 1752491609 (2025/07/14)

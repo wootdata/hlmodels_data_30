@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_kirisame_marisa
+Source Model Hash : cc8a094b0f2dd1e37864168d3fe01a61
+Source Model Date : 1456215040 (2016/02/23)
+
+Ported Model Name : 2hu_k_marisa_v1sc
+Ported Model Hash : 5f2747a19be3f99a5b4a5bb0a83627bc
+Ported Model Date : 1752492440 (2025/07/14)

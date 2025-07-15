@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ram_sexy
+Source Model Hash : 170c78a4eaba2f7afcbb31723b4e6718
+Source Model Date : 1543310235 (2018/11/27)
+
+Ported Model Name : ram_sexy_v1sc
+Ported Model Hash : 102d86876de6960d8535065478d3c5cc
+Ported Model Date : 1752492185 (2025/07/14)

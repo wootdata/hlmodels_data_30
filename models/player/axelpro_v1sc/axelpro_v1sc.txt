@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axelpro
+Source Model Hash : c6b5a489972093269b7d39ad8f1427d0
+Source Model Date : 1454267351 (2016/01/31)
+
+Ported Model Name : axelpro_v1sc
+Ported Model Hash : d0e84d3fc80475b62212855c6058e557
+Ported Model Date : 1752491390 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_soldier_color2_v2
+Source Model Hash : 39ff56b5925e8876bc6f29834765ad7b
+Source Model Date : 1661811896 (2022/08/29)
+
+Ported Model Name : tac_soldier_c2_v2sc
+Ported Model Hash : c8ab241416307113a30f5b418b551b98
+Ported Model Date : 1752492381 (2025/07/14)

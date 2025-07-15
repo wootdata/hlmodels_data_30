@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zed_infiltrator
+Source Model Hash : 47027e430ff3e95ef58b8fd55a25f3e5
+Source Model Date : 1688674006 (2023/07/06)
+
+Ported Model Name : zed_infiltrator_v1sc
+Ported Model Hash : 509e8223e395380d1d0372156ae0ab55
+Ported Model Date : 1752492527 (2025/07/14)

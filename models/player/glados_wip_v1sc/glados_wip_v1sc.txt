@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : glados_wip
+Source Model Hash : ba866b01701480098d47817123dc30e9
+Source Model Date : 1456636085 (2016/02/27)
+
+Ported Model Name : glados_wip_v1sc
+Ported Model Hash : 8398346f98b1abe5118eee88378365f2
+Ported Model Date : 1752491728 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : youmu
+Source Model Hash : c65b0ced4c98db58d68e60a24944af34
+Source Model Date : 1411828600 (2014/09/27)
+
+Ported Model Name : youmu_v1sc
+Ported Model Hash : ec9b497352205835a29409777244e9db
+Ported Model Date : 1752492522 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shippudden_naruto2
+Source Model Hash : 23dd2958d6e69e374c5767cadff8dc3c
+Source Model Date : 1236345860 (2009/03/06)
+
+Ported Model Name : shippu_naruto2_v1sc
+Ported Model Hash : 85bdc1546a101a427657f0dc4ac27482
+Ported Model Date : 1752492270 (2025/07/14)

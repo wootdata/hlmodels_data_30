@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rattyman
+Source Model Hash : e7c3e2699e527fe849c78c135e8ce64d
+Source Model Date : 1482673569 (2016/12/25)
+
+Ported Model Name : rattyman_v1sc
+Ported Model Hash : 7273bcec1cb2ab8c60ab9fb5825a6f03
+Ported Model Date : 1752492187 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_s_arctic4_v2
+Source Model Hash : 938215c71f9825b5f4a85479e0e50fbb
+Source Model Date : 1661805633 (2022/08/29)
+
+Ported Model Name : ta_c_s_arctic4_v2sc
+Ported Model Hash : 303651518fe29c2db59651fad39af564
+Ported Model Date : 1752492384 (2025/07/14)

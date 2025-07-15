@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : srs_stan
+Source Model Hash : 8f25d87e905ec8376e0e4f8b53b20470
+Source Model Date : 1738800969 (2025/02/05)
+
+Ported Model Name : srs_stan_v1sc
+Ported Model Hash : 768c08f2bd7714500f359df5323e7907
+Ported Model Date : 1752492318 (2025/07/14)

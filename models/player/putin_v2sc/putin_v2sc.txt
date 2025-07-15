@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : putin_v2
+Source Model Hash : a947b605cad6cb048133ea84a28d3363
+Source Model Date : 1466825657 (2016/06/24)
+
+Ported Model Name : putin_v2sc
+Ported Model Hash : c578a850423c5e90074968ca0d603bb7
+Ported Model Date : 1752492174 (2025/07/14)

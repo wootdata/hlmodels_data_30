@@ -1,0 +1,25 @@
+Doritos model made by niaarchangel!
+
+Textures from
+-https://www.homecoffeesolutions.com/products/doritos-nacho-cheese-pack-of-48
+-https://www.you-buy.ca/en/product/5SFTH4-doritos-nacho-cheese-flavored-tortilla-chips-party-size-14-5-oz-bag
+
+Thumbnail from
+-https://www.ebay.ca/itm/295408771103?oid=373495439640
+
+Doritos brand is owned by Frito-Lay
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doritos
+Source Model Hash : c6d40dd388bbc9ac0a64bfb16e6b4f62
+Source Model Date : 1671159008 (2022/12/15)
+
+Ported Model Name : doritos_v1sc
+Ported Model Hash : 0a42fd2eaa1b26518ec10158b6b85578
+Ported Model Date : 1752491620 (2025/07/14)

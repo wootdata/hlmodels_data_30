@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_gs_succubusgirl
+Source Model Hash : c96c8bf3e9a42d9530e65bdc4f56b3fa
+Source Model Date : 1542221310 (2018/11/14)
+
+Ported Model Name : 2d_gs_succubgirl_v1sc
+Ported Model Hash : 121929f226d53217b19d43d491b07e2d
+Ported Model Date : 1752491308 (2025/07/14)

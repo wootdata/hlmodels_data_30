@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhhoods
+Source Model Hash : 6343599d3c546c3bb8ffa179a87b0ea2
+Source Model Date : 1629041904 (2021/08/15)
+
+Ported Model Name : mhhoods_v1sc
+Ported Model Hash : f1bd66d1f72b83ceaf42550ccd82ac1a
+Ported Model Date : 1752492012 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolcool
+Source Model Hash : 7b44ac1d3ce71d2fdcdf1de715530f70
+Source Model Date : 1589853850 (2020/05/18)
+
+Ported Model Name : lolcool_v1sc
+Ported Model Hash : b77e67680fd8226e2ce0c7947e0b7a23
+Ported Model Date : 1752491957 (2025/07/14)

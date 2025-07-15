@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raptors_rgrunt
+Source Model Hash : 0737d2f96273ab49e8f676054e4c39b2
+Source Model Date : 1238872815 (2009/04/04)
+
+Ported Model Name : raptors_rgrunt_v1sc
+Ported Model Hash : de713df206751bc15db4dfaa1466ec2e
+Ported Model Date : 1752492187 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xccp
+Source Model Hash : 83b472af7277550fc4a3d42b332d4254
+Source Model Date : 1482673947 (2016/12/25)
+
+Ported Model Name : xccp_v1sc
+Ported Model Hash : b7ffee4ec68cb994d9913e84746d1c38
+Ported Model Date : 1752492516 (2025/07/14)

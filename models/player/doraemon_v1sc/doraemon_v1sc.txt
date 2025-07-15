@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doraemon
+Source Model Hash : ddb72dd357fa7b110e26ce819c7e505e
+Source Model Date : 1267108460 (2010/02/25)
+
+Ported Model Name : doraemon_v1sc
+Ported Model Hash : eb0baeb037905a50315dda67ab040277
+Ported Model Date : 1752491620 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sofidark3
+Source Model Hash : 0ff0d835dca1dedec9bce0979c1454bf
+Source Model Date : 1434669552 (2015/06/18)
+
+Ported Model Name : sofidark3_v1sc
+Ported Model Hash : 5d1c7db1b77fe145c10b85078d12760f
+Ported Model Date : 1752492288 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : torch_bloody_v2
+Source Model Hash : 6955d74c6bef8367587dd4d21a7e4d61
+Source Model Date : 1540691848 (2018/10/27)
+
+Ported Model Name : torch_bloody_v2sc
+Ported Model Hash : e4d3cde13e98b79a8ac02fb414a2e146
+Ported Model Date : 1752492432 (2025/07/14)

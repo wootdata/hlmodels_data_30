@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : berndbot
+Source Model Hash : e5d8fd1bcd08a8968ef02dc4b1428ea3
+Source Model Date : 1746110727 (2025/05/01)
+
+Ported Model Name : berndbot_v1sc
+Ported Model Hash : d8b3be11dd50e5442b9e4fac272d9510
+Ported Model Date : 1752491424 (2025/07/14)

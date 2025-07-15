@@ -1,0 +1,16 @@
+thanks to Keen for sharing his dm_base for his models
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : reniah
+Source Model Hash : 29db27cf7de3a1b3c55b7896002d8028
+Source Model Date : 1453485914 (2016/01/22)
+
+Ported Model Name : reniah_v1sc
+Ported Model Hash : a19e530e92b3b0e4b6abcdb5a886f827
+Ported Model Date : 1752492199 (2025/07/14)

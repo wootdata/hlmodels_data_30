@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrvodka
+Source Model Hash : 3946b0f941e9cf73ed5fb41b88914670
+Source Model Date : 1674818736 (2023/01/27)
+
+Ported Model Name : mrvodka_v1sc
+Ported Model Hash : f8480af3a69134cae9dba21a6cfdddbd
+Ported Model Date : 1752492046 (2025/07/14)

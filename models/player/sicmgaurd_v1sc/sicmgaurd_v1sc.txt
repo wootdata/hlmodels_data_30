@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sicmgaurd
+Source Model Hash : 90b05de629710499e809166b3616e16c
+Source Model Date : 1269859578 (2010/03/29)
+
+Ported Model Name : sicmgaurd_v1sc
+Ported Model Hash : 9d4c030ec204896f7072be9573fab344
+Ported Model Date : 1752492275 (2025/07/14)

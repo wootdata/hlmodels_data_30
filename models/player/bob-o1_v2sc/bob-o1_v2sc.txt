@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bob-o1_v2
+Source Model Hash : 2ff412860948885dba7b8084cd967dc6
+Source Model Date : 1583805440 (2020/03/09)
+
+Ported Model Name : bob-o1_v2sc
+Ported Model Hash : 4caa5925627517c55b6724e636af81fd
+Ported Model Date : 1752491441 (2025/07/14)

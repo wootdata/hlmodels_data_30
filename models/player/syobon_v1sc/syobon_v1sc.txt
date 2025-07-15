@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : syobon
+Source Model Hash : 8eb99340f4e574530b5034115b32b66a
+Source Model Date : 1270043756 (2010/03/31)
+
+Ported Model Name : syobon_v1sc
+Ported Model Hash : 825e6d3d25d1cbea67da5fd5d4e30973
+Ported Model Date : 1752492356 (2025/07/14)

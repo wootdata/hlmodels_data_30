@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : takecover
+Source Model Hash : 75b04f92c4b028ca9517d35458341361
+Source Model Date : 1482673569 (2016/12/25)
+
+Ported Model Name : takecover_v1sc
+Ported Model Hash : 43a0a85181f2552d8a17777defba2f57
+Ported Model Date : 1752492359 (2025/07/14)

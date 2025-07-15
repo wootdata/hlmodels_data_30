@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : l4d_zoey_v2
+Source Model Hash : 201019a854dd986d978a0973e04ff9fb
+Source Model Date : 1654721437 (2022/06/08)
+
+Ported Model Name : l4d_zoey_v2sc
+Ported Model Hash : 180e563f69398bc5dd664388a32e37ef
+Ported Model Date : 1752491935 (2025/07/14)

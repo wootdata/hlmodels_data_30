@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : serpentman
+Source Model Hash : 45229dac8267da537737cb8e0e6592ce
+Source Model Date : 1268067878 (2010/03/08)
+
+Ported Model Name : serpentman_v1sc
+Ported Model Hash : a583ca9f516399fc616cb5241c057e22
+Ported Model Date : 1752492259 (2025/07/14)

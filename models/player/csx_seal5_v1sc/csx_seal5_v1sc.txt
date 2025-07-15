@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csx_seal5
+Source Model Hash : 8b755321bb66b87809ba10112cd25fae
+Source Model Date : 1617902426 (2021/04/08)
+
+Ported Model Name : csx_seal5_v1sc
+Ported Model Hash : 8a37c4a92276bd74ca081f5e3bdeef33
+Ported Model Date : 1752491565 (2025/07/14)

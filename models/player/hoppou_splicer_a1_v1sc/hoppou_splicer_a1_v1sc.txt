@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoppou_splicer_a1
+Source Model Hash : 99474b95e0398ebe0c0cc83891fcade7
+Source Model Date : 1719836015 (2024/07/01)
+
+Ported Model Name : hoppou_splicer_a1_v1sc
+Ported Model Hash : eeb63f5671088f17265cb595a93eb3aa
+Ported Model Date : 1752491827 (2025/07/14)

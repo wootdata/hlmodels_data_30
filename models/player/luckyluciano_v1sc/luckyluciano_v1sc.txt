@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : luckyluciano
+Source Model Hash : e6b81103190357d08156d7f694c95f3b
+Source Model Date : 1511566101 (2017/11/24)
+
+Ported Model Name : luckyluciano_v1sc
+Ported Model Hash : b3fdb87d5b76236dff1d9e7af07a6fbb
+Ported Model Date : 1752491973 (2025/07/14)

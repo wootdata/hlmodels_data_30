@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_zabuza2
+Source Model Hash : 966edebc0058e3e62d90848657f2c47e
+Source Model Date : 1236392626 (2009/03/06)
+
+Ported Model Name : naruto_zabuza2_v1sc
+Ported Model Hash : 3d57903340e4a9888faf887777b20a15
+Ported Model Date : 1752492071 (2025/07/14)

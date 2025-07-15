@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aco
+Source Model Hash : f0ce7a9cd8c70a74a8cc2907927bc273
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : aco_v1sc
+Ported Model Hash : c1c854dba0eb963230ec6abc23e69d6e
+Ported Model Date : 1752491330 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rvi_colette
+Source Model Hash : 44ba90ab6d706867a5ee6f41f21ebe4e
+Source Model Date : 1650248064 (2022/04/17)
+
+Ported Model Name : rvi_colette_v1sc
+Ported Model Hash : fd6988d86ac97007ffd22acfc2b8e970
+Ported Model Date : 1752492226 (2025/07/14)

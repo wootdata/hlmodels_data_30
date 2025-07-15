@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : puss_in_boots
+Source Model Hash : d477d6deb4fe6506cc6b21185e10696c
+Source Model Date : 1466428612 (2016/06/20)
+
+Ported Model Name : puss_in_boots_v1sc
+Ported Model Hash : 6768615e0ee3bf93bce1216b0703b539
+Ported Model Date : 1752492173 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackmush
+Source Model Hash : 8d19136f095948c153c3ed31dd4169cd
+Source Model Date : 1458021251 (2016/03/14)
+
+Ported Model Name : blackmush_v1sc
+Ported Model Hash : 40b0f9fdf3fe7089a279a9ae728dd09f
+Ported Model Date : 1752491433 (2025/07/14)

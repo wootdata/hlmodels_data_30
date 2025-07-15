@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pitusas_v3
+Source Model Hash : b99725f6db0225a269b4cf97949edf72
+Source Model Date : 1579708641 (2020/01/22)
+
+Ported Model Name : pitusas_v3sc
+Ported Model Hash : fd65ea617569eb53b3026bf5c0dc1b37
+Ported Model Date : 1752492158 (2025/07/14)

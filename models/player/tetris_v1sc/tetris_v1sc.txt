@@ -1,0 +1,17 @@
+Model by Aurora
+Converted to player model with customizable colors by Puchi
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tetris
+Source Model Hash : b11c31c2c99e2d2068c0aaa310bbcfc7
+Source Model Date : 1454247781 (2016/01/31)
+
+Ported Model Name : tetris_v1sc
+Ported Model Hash : 4eccc8139b642a10d69f893059d51ff1
+Ported Model Date : 1752492402 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : solidsnake2
+Source Model Hash : 40b277427cd0005cb7ab51d53ed3bff6
+Source Model Date : 1269931138 (2010/03/29)
+
+Ported Model Name : solidsnake2_v1sc
+Ported Model Hash : ebf1cebaa9352b65f43e7f89150a5025
+Ported Model Date : 1752492294 (2025/07/14)

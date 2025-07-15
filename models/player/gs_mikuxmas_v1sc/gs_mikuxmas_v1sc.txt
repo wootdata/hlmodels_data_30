@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_mikuxmas
+Source Model Hash : 707cca4fdff77e7a57b5cf565455bf44
+Source Model Date : 1699034203 (2023/11/03)
+
+Ported Model Name : gs_mikuxmas_v1sc
+Ported Model Hash : f2f18647cabee6f81dc331a45132f7d5
+Ported Model Date : 1752491749 (2025/07/14)

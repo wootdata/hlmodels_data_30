@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sci_wheelchair
+Source Model Hash : 5a2b65aab1be3411636d8496a8822417
+Source Model Date : 1327867476 (2012/01/29)
+
+Ported Model Name : sci_wheelchair_v1sc
+Ported Model Hash : 5bc4752ffc3873defaab8c9801a10380
+Ported Model Date : 1752492248 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_sas
+Source Model Hash : 4fe45391c151f3db4849609f68da5faa
+Source Model Date : 1240097120 (2009/04/18)
+
+Ported Model Name : toon_sas_v1sc
+Ported Model Hash : e2f959d3f609e0b2a7263e7c0229e04d
+Ported Model Date : 1752492431 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pmarnienb
+Source Model Hash : 11e2ace7766432d1fdb10426229f939e
+Source Model Date : 1627983090 (2021/08/03)
+
+Ported Model Name : pmarnienb_v1sc
+Ported Model Hash : c0c0a987d6b7ffdcef173e8cceaf555a
+Ported Model Date : 1752492161 (2025/07/14)

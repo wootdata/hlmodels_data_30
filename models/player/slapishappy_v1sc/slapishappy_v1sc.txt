@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : slapishappy
+Source Model Hash : e98f60de03fd16749a5a2b12273cabf2
+Source Model Date : 1269866174 (2010/03/29)
+
+Ported Model Name : slapishappy_v1sc
+Ported Model Hash : 73b0679d8bf0e9a6061f2d011c3f47bd
+Ported Model Date : 1752492280 (2025/07/14)

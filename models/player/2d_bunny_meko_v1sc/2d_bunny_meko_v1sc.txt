@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_bunny_meko
+Source Model Hash : aab3442c2b96b9291015e28ab246f2e9
+Source Model Date : 1544790000 (2018/12/14)
+
+Ported Model Name : 2d_bunny_meko_v1sc
+Ported Model Hash : 179381b9a4fb99fc8a46f716062d13dc
+Ported Model Date : 1752491305 (2025/07/14)

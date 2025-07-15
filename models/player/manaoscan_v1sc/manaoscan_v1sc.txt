@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : manaoscan
+Source Model Hash : bd7d0332264e1047fd93f55364aeb04c
+Source Model Date : 1484385549 (2017/01/14)
+
+Ported Model Name : manaoscan_v1sc
+Ported Model Hash : e43b4f20c76d193a2dbdf7f757d24bcb
+Ported Model Date : 1752491983 (2025/07/14)

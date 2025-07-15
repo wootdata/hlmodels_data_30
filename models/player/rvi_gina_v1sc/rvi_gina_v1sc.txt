@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rvi_gina
+Source Model Hash : 6e419f91516528093a74b2ae9d329927
+Source Model Date : 1649646546 (2022/04/10)
+
+Ported Model Name : rvi_gina_v1sc
+Ported Model Hash : d1c1e4a2164599aab37acaa6c00dc87b
+Ported Model Date : 1752492226 (2025/07/14)

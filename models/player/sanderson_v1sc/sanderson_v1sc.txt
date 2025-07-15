@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sanderson
+Source Model Hash : cc89a3de0206c0fa35ee97c71ef7adea
+Source Model Date : 1269690901 (2010/03/27)
+
+Ported Model Name : sanderson_v1sc
+Ported Model Hash : b2080a14bb4a24c065685f5fcacbc14c
+Ported Model Date : 1752492234 (2025/07/14)

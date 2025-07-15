@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naruto_rock_lee
+Source Model Hash : 3f9f5bc0ae16e03c82fc4d4d6e7a296e
+Source Model Date : 1236391632 (2009/03/06)
+
+Ported Model Name : naruto_rock_lee_v1sc
+Ported Model Hash : a8978e486b5c313faa4b51992b4fe4fd
+Ported Model Date : 1752492070 (2025/07/14)

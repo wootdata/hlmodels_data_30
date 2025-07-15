@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gena
+Source Model Hash : 2e0f80e28d4e4d6f22ec0376d821d06d
+Source Model Date : 1466426818 (2016/06/20)
+
+Ported Model Name : gena_v1sc
+Ported Model Hash : a52dc86c0161c64a954e40712d4b8d39
+Ported Model Date : 1752491674 (2025/07/14)

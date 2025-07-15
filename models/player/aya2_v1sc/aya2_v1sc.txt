@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aya2
+Source Model Hash : e9b97b3a01ae85722dd231c6dbc3155d
+Source Model Date : 1343222966 (2012/07/25)
+
+Ported Model Name : aya2_v1sc
+Ported Model Hash : 73f2dee393fd4f6316e723914b44e304
+Ported Model Date : 1752491392 (2025/07/14)

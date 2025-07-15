@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : poniko_v3
+Source Model Hash : 443ffab7feed1f7566f0cfcf82d6d6f4
+Source Model Date : 1591259057 (2020/06/04)
+
+Ported Model Name : poniko_v3sc
+Ported Model Hash : d6d3a6e0959f8712c99521c18c8467ee
+Ported Model Date : 1752492162 (2025/07/14)

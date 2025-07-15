@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekotamab
+Source Model Hash : 86193ae30abce3552b94a52eb1c6097a
+Source Model Date : 1548735694 (2019/01/28)
+
+Ported Model Name : nekotamab_v1sc
+Ported Model Hash : 423277d5bfe0c0976a4d16705d655f24
+Ported Model Date : 1752492088 (2025/07/14)

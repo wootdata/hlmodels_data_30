@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mario64odyssey
+Source Model Hash : ec261e9267caf3a73bdff3e0c760e3fc
+Source Model Date : 1649269965 (2022/04/06)
+
+Ported Model Name : mario64odyssey_v1sc
+Ported Model Hash : f37c3e43da51ed0de4e7b1b540e7beaf
+Ported Model Date : 1752491987 (2025/07/14)

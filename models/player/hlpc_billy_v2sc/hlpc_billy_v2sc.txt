@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlpc_billy_v2
+Source Model Hash : 8b584106117e2921770919cd9d8ac8d7
+Source Model Date : 1590805227 (2020/05/29)
+
+Ported Model Name : hlpc_billy_v2sc
+Ported Model Hash : 58247f41f1bf16608e466a23b42beec6
+Ported Model Date : 1752491806 (2025/07/14)

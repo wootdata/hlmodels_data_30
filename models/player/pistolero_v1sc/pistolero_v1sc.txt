@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pistolero
+Source Model Hash : f485eb0bee333f33fd538d790198fbd1
+Source Model Date : 1256556896 (2009/10/26)
+
+Ported Model Name : pistolero_v1sc
+Ported Model Hash : ad56caa9b372394065f4c10fa5b09965
+Ported Model Date : 1752492157 (2025/07/14)

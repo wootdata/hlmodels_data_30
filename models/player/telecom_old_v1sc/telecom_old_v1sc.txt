@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : telecom_old
+Source Model Hash : e3ad0ff8e80e2f8d7af199d5c02a6139
+Source Model Date : 1590541839 (2020/05/26)
+
+Ported Model Name : telecom_old_v1sc
+Ported Model Hash : 0232a6e2e7355ff1f6bc74622d9e1f25
+Ported Model Date : 1752492399 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armyman_tower
+Source Model Hash : d9663b2b722d800812b4915bc7443291
+Source Model Date : 1577391622 (2019/12/26)
+
+Ported Model Name : armyman_tower_v1sc
+Ported Model Hash : b3d3520d48aea7892d773462a2f9bfec
+Ported Model Date : 1752491377 (2025/07/14)

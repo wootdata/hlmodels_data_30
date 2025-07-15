@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : baktaria_v2
+Source Model Hash : 01f08418003d031f1d105e49850cb905
+Source Model Date : 1583482100 (2020/03/06)
+
+Ported Model Name : baktaria_v2sc
+Ported Model Hash : c480532037194bf0b5043d5a63b4e8ec
+Ported Model Date : 1752491398 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mh_danny
+Source Model Hash : fe2813f6584cae180a1a10d639d345e1
+Source Model Date : 1740136930 (2025/02/21)
+
+Ported Model Name : mh_danny_v1sc
+Ported Model Hash : b139a21c4bb97da6832cd9aac6cf866f
+Ported Model Date : 1752492014 (2025/07/14)

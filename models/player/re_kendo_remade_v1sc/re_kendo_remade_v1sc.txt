@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_kendo_remade
+Source Model Hash : 907dd260d45b5285fcfb5d9866264ae0
+Source Model Date : 1236229322 (2009/03/04)
+
+Ported Model Name : re_kendo_remade_v1sc
+Ported Model Hash : e1dc8c19598b2d4f3fa8df24c975f362
+Ported Model Date : 1752492209 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : natsumi_v2
+Source Model Hash : 63bde43123e2e817b9825dc4d491b2d1
+Source Model Date : 1591247271 (2020/06/03)
+
+Ported Model Name : natsumi_v2sc
+Ported Model Hash : b13472d8de8f4fb1c7dee92cf90acd03
+Ported Model Date : 1752492075 (2025/07/14)

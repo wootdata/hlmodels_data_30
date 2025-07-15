@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lp_red
+Source Model Hash : 95335044f112b12bafcc5d0ce1da1491
+Source Model Date : 1538981229 (2018/10/07)
+
+Ported Model Name : lp_red_v1sc
+Ported Model Hash : f65f98a63cdc54ddf9015e70c2b278da
+Ported Model Date : 1752491966 (2025/07/14)

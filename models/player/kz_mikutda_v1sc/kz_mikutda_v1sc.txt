@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_mikutda_v1
+Source Model Hash : c2a5db99cf89e5226d8d35e7f87cae9d
+Source Model Date : 1543037650 (2018/11/23)
+
+Ported Model Name : kz_mikutda_v1sc
+Ported Model Hash : f2248c1432bbe7bc197e1a95cea74139
+Ported Model Date : 1752491925 (2025/07/14)

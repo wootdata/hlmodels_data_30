@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cirno2
+Source Model Hash : 29ff6c416d1a172304084431b2a2602b
+Source Model Date : 1458602580 (2016/03/21)
+
+Ported Model Name : cirno2_v1sc
+Ported Model Hash : 772599d2bcb36a68152aebea19da8164
+Ported Model Date : 1752491476 (2025/07/14)

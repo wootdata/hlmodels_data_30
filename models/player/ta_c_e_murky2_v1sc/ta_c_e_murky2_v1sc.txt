@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_e_murky2
+Source Model Hash : dd27ab772d186f519095a244f6d45e47
+Source Model Date : 1630954720 (2021/09/06)
+
+Ported Model Name : ta_c_e_murky2_v1sc
+Ported Model Hash : f2078b7fb20599b8d3983cc5d3c8c3a5
+Ported Model Date : 1752492373 (2025/07/14)

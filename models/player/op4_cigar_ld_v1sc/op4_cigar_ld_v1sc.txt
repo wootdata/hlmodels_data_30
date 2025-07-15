@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_cigar_ld
+Source Model Hash : 2de5271b9ca0745c57ee3b2f6865b78d
+Source Model Date : 1603033171 (2020/10/18)
+
+Ported Model Name : op4_cigar_ld_v1sc
+Ported Model Hash : 4d91811857708727553a272396e757fa
+Ported Model Date : 1752492118 (2025/07/14)

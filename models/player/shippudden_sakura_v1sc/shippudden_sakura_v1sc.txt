@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shippudden_sakura
+Source Model Hash : 0312372db031ca6aefcf8b31997268d6
+Source Model Date : 1236345842 (2009/03/06)
+
+Ported Model Name : shippudden_sakura_v1sc
+Ported Model Hash : 7d0622e557141080ccf182ece590bacb
+Ported Model Date : 1752492271 (2025/07/14)

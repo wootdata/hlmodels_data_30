@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fatah
+Source Model Hash : 6c4a03f6eed720dbf282ec94c3ee0dd2
+Source Model Date : 1263576838 (2010/01/15)
+
+Ported Model Name : fatah_v1sc
+Ported Model Hash : 555f1f7fe16b527ec417280a817addf8
+Ported Model Date : 1752491645 (2025/07/14)

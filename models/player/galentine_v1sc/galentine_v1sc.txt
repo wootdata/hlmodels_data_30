@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : galentine
+Source Model Hash : 53740d872e5346dfb101eff56913e00e
+Source Model Date : 1230659116 (2008/12/30)
+
+Ported Model Name : galentine_v1sc
+Ported Model Hash : cc7bb7b4c7b9f6bbc672ad46f606cdac
+Ported Model Date : 1752491670 (2025/07/14)

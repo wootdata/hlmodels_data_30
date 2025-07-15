@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : moonman
+Source Model Hash : 87981274c42d25f6afedf61cd384fd92
+Source Model Date : 1458129461 (2016/03/16)
+
+Ported Model Name : moonman_v1sc
+Ported Model Hash : c51cb71c3ae84092f1469b0b0a3956fe
+Ported Model Date : 1752492041 (2025/07/14)
