@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shygalcv
+Source Model Hash : cc481fe8364ad8422300522ff9bc598d
+Source Model Date : 1770567599 (2026/02/08)
+
+Ported Model Name : shygalcv_v1sc
+Ported Model Hash : e47ce2d126805fc3162012cd7e0fa5af
+Ported Model Date : 1780823047 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : andre_promohev
+Source Model Hash : b22a0e60d10b7e2810a69c5e6d102c1b
+Source Model Date : 1744713090 (2025/04/15)
+
+Ported Model Name : andre_promohev_v1sc
+Ported Model Hash : 59d6f73f8e23009a8a546c6a20b362dd
+Ported Model Date : 1780823016 (2026/06/07)
